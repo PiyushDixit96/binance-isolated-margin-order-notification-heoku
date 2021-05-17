@@ -14,7 +14,7 @@
 
 <h2>Deploy to Heroku</h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PiyushDixit96/binance-order-notifier)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PiyushDixit96/binance-isolated-margin-order-notification-heoku)
 
 
 <h2>Setup before Deploy to Heroku</h2>
@@ -37,7 +37,7 @@
 
 1. Create account on Heroku (skip if you have)
 2. Login to Heroku (if you are not)
-3. Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PiyushDixit96/binance-order-notifier)
+3. Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PiyushDixit96/binance-isolated-margin-order-notification-heoku)
 
 ![fullUntitled](https://user-images.githubusercontent.com/79581397/117697809-89587b00-b1e0-11eb-98d3-3086f973ce84.jpg)
 
