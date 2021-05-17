@@ -37,16 +37,19 @@
 
 1. Create account on Heroku (skip if you have)
 2. Login to Heroku (if you are not)
-3. Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PiyushDixit96/binance-isolated-margin-order-notification-heoku)
+3. Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PiyushDixit96/binance-isolated-margin-order-notification-heoku)  then next page looks like below
 
-![fullUntitled](https://user-images.githubusercontent.com/79581397/117697809-89587b00-b1e0-11eb-98d3-3086f973ce84.jpg)
+![Untitled](https://user-images.githubusercontent.com/79581397/118515035-9e8a5800-b752-11eb-9dd2-651a9bb5a906.jpg)
 
 5. Give any name in "App name" field
 6. Fill required fields in "Config Vars"
 7. Click "Deploy app"
-8. When you see , "Your app was successfully deployed." then your bot started automatically.
+8. Click "Mange App" When you see , "Your app was successfully deployed." 
 
-![DSCapture](https://user-images.githubusercontent.com/79581397/117698015-d1779d80-b1e0-11eb-8b57-0224ab96e3ee.JPG)
+![2Untitled](https://user-images.githubusercontent.com/79581397/118515645-312af700-b753-11eb-9e39-c9ed96824e48.jpg)
+![3Untitled](https://user-images.githubusercontent.com/79581397/118515830-5fa8d200-b753-11eb-815d-5c5e17c39a6f.jpg)
+![4Untitled](https://user-images.githubusercontent.com/79581397/118515865-6a636700-b753-11eb-99eb-8529e564c9b3.jpg)
+
 
 ------------
 ### Run Locally
