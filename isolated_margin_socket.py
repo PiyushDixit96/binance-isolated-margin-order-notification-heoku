@@ -86,8 +86,9 @@ async def isolated_margin_user(client, isolated_margin_symbol):
     :type isolated_margin_symbol: str
     """
     bm = BinanceSocketManager(client)  # , user_timeout=1700
-    logger.info(
-        f"Binance Starts a web socket Manager for isolated margin symbol={isolated_margin_symbol}..")
+    t=f"Binance Starts a web socket Manager for isolated margin symbol={isolated_margin_symbol}.."
+    logger.info(t)
+    send_telegram(t)
     async with bm.isolated_margin_socket(isolated_margin_symbol) as stream:
         while True:
             res = await stream.recv()
